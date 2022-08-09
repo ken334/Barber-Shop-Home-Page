@@ -1,0 +1,1 @@
+This is a Codecademy project to build a company home page with flexbox.
